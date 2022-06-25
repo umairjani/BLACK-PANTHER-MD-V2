@@ -51,7 +51,7 @@ global.botname = '🖤devil king Bot 🖤'
 
 global.footer = '©devil of king 🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://github.com/Khan664/BLACK-PANTHER-MD-V2.git'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
